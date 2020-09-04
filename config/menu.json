@@ -1,0 +1,63 @@
+ 
+{
+  "data": [
+    {
+      "id": 1,
+      "menu": [
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "电视",
+          "path": "/pages/iptv/index",
+          "style": "color:red"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "壁纸",
+          "path": "/pages/iptv/index",
+          "style": "color:#ccc"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "小说",
+          "path": "/pages/iptv/index",
+          "style": "color:var(--cyan)"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "热点",
+          "path": "/pages/iptv/index",
+          "style": "color:red"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "menu": [
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "新闻",
+          "path": "/pages/iptv/index",
+          "style": "color:red"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "文章",
+          "path": "/pages/iptv/index",
+          "style": "color:#ccc"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "周刊",
+          "path": "/pages/iptv/index",
+          "style": "color:var(--cyan)"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
+          "name": "技术",
+          "path": "/pages/iptv/index",
+          "style": "color:red"
+        }
+      ]
+    }
+  ]
+}
