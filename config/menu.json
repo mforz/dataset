@@ -1,8 +1,9 @@
- 
+
 {
   "data": [
     {
-      "id": 1,
+      "type": 1,
+      "banner": [],
       "menu": [
         {
           "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
@@ -31,13 +32,16 @@
       ]
     },
     {
-      "id": 2,
+      "type": 1,
+      "banner": [],
       "menu": [
         {
           "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
           "name": "新闻",
           "path": "/pages/iptv/index",
-          "style": "color:red"
+          "style": "color:red",
+          "iconStyle": "",
+          "nameStyle": ""
         },
         {
           "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
@@ -58,6 +62,33 @@
           "style": "color:red"
         }
       ]
+    },
+    {
+      "type": 2,
+      "banner": [
+        {
+          "info": "shuomingwenzhi",
+          "url": "http://p7.qhimg.com/bdm/480_296_0/t01029271a412002a59.jpg",
+          "style": "",
+          "bannerStyle": "",
+          "infoStyle": ""
+        },
+        {
+          "info": "banner图测试",
+          "url": "http://p3.qhimg.com/bdm/960_593_0/t01a66efaff812c7323.jpg",
+          "style": "",
+          "bannerStyle": "",
+          "infoStyle": ""
+        },
+        {
+          "info": "banner图测试",
+          "url": "http://p7.qhimg.com/bdm/480_296_0/t01edcea450cd40f13c.jpg",
+          "style": "",
+          "bannerStyle": "",
+          "infoStyle": ""
+        }
+      ],
+      "menu": []
     }
   ]
 }
