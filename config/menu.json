@@ -1,95 +1,96 @@
-
 {
-  "data": [
-    {
-      "type": 1,
-      "banner": [],
-      "menu": [
+      "data": [
         {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "电视",
-          "path": "/pages/iptv/index",
-          "style": "color:red"
+          "type": 1,
+          "banner": [],
+          "menu": [
+            {
+              "type": 1,
+              "banner": [],
+              "menu": [
+                {
+                  "icon": "",
+                  "name": "新闻",
+                  "path": "/pages/iptv/index",
+                  "style": "color:red",
+                  "iconStyle": "",
+                  "nameStyle": ""
+                },
+                {
+                  "icon": "",
+                  "name": "文章",
+                  "path": "/pages/iptv/index",
+                  "style": "color:#ccc"
+                },
+                {
+                  "icon": "",
+                  "name": "周刊",
+                  "path": "/pages/iptv/index",
+                  "style": "color:var(--cyan)"
+                },
+                {
+                  "icon": "",
+                  "name": "技术",
+                  "path": "/pages/iptv/index",
+                  "style": "color:red"
+                }
+              ]
+            },
+            {
+              "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/iptv.png",
+              "name": "电视",
+              "path": "/pages/iptv/index",
+              "style": "color:red"
+            },
+            {
+              "icon":
+                "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/wallpaper.png",
+              "name": "壁纸",
+              "path": "/pages/wallpaper/index",
+              "style": "color:#f5f5d5"
+            },
+            {
+              "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/hot.png",
+              "name": "热点",
+              "path": "/pages/hotspot/index",
+              "style": "color:red"
+            },
+            {
+              "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/novel.png",
+              "name": "小说",
+              "path": "/pages/novel/index",
+              "style": "color:var(--cyan)"
+            }
+          ]
         },
+
         {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "壁纸",
-          "path": "/pages/iptv/index",
-          "style": "color:#ccc"
-        },
-        {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "小说",
-          "path": "/pages/iptv/index",
-          "style": "color:var(--cyan)"
-        },
-        {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "热点",
-          "path": "/pages/iptv/index",
-          "style": "color:red"
+          "type": 2,
+          "style": "margin-top:-100px",
+          "banner": [
+            {
+              "info": "shuomingwenzhi",
+              "url": " ",
+              "style": "",
+              "bannerStyle": "",
+              "infoStyle": ""
+            },
+            {
+              "info": "banner图测试",
+              "url": "http://p3.qhimg.com/bdm/960_593_0/t01a66efaff812c7323.jpg",
+              "style": "",
+              "bannerStyle": "",
+              "infoStyle": ""
+            },
+            {
+              "info": "banner图测试",
+              "url": "http://p7.qhimg.com/bdm/480_296_0/t01edcea450cd40f13c.jpg",
+              "style": "",
+              "bannerStyle": "",
+              "infoStyle": ""
+            }
+          ],
+          "menu": []
         }
       ]
-    },
-    {
-      "type": 1,
-      "banner": [],
-      "menu": [
-        {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "新闻",
-          "path": "/pages/iptv/index",
-          "style": "color:red",
-          "iconStyle": "",
-          "nameStyle": ""
-        },
-        {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "文章",
-          "path": "/pages/iptv/index",
-          "style": "color:#ccc"
-        },
-        {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "周刊",
-          "path": "/pages/iptv/index",
-          "style": "color:var(--cyan)"
-        },
-        {
-          "icon": "https://cdn.jsdelivr.net/gh/mforz/dataset/icon/1.png",
-          "name": "技术",
-          "path": "/pages/iptv/index",
-          "style": "color:red"
-        }
-      ]
-    },
-    {
-      "type": 2,
-      "style":"margin-bottom:150px",
-      "banner": [
-        {
-          "info": "shuomingwenzhi",
-          "url": "http://p7.qhimg.com/bdm/480_296_0/t01029271a412002a59.jpg",
-          "style": "",
-          "bannerStyle": "",
-          "infoStyle": ""
-        },
-        {
-          "info": "banner图测试",
-          "url": "http://p3.qhimg.com/bdm/960_593_0/t01a66efaff812c7323.jpg",
-          "style": "",
-          "bannerStyle": "",
-          "infoStyle": ""
-        },
-        {
-          "info": "banner图测试",
-          "url": "http://p7.qhimg.com/bdm/480_296_0/t01edcea450cd40f13c.jpg",
-          "style": "",
-          "bannerStyle": "",
-          "infoStyle": ""
-        }
-      ],
-      "menu": []
     }
-  ]
-}
