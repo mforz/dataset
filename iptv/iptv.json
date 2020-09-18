@@ -2,6 +2,7 @@
   "data": [
     {
       "name": "CCTV",
+      "key": "cctv",
       "lock": false,
       "list": [
         {
@@ -76,6 +77,7 @@
     },
     {
       "name": "卫视",
+      "key": "wstv",
       "lock": false,
       "list": [
         {
@@ -194,6 +196,7 @@
     },
     {
       "name": "CETV",
+      "key": "cetv",
       "lock": false,
       "list": [
         {
@@ -216,6 +219,7 @@
     },
     {
       "name": "地方",
+      "key": "local",
       "lock": false,
       "list": [
         {
@@ -443,6 +447,7 @@
     },
     {
       "name": "港澳",
+      "key": "hkmt",
       "lock": false,
       "list": [
         {
